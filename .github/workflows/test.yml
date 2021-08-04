@@ -27,4 +27,4 @@ jobs:
           ## 构建生成的目录
           build_dir: build
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
