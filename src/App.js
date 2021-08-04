@@ -5,6 +5,7 @@ function App() {
     <div>
       hello world
       <p>Merge Request</p>
+      <p>11</p>
     </div>
   );
 }
