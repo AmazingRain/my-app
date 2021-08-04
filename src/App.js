@@ -4,6 +4,7 @@ function App() {
   return (
     <div>
       hello world
+      <p>Merge Request</p>
     </div>
   );
 }
