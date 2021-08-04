@@ -6,6 +6,7 @@ function App() {
       hello world
       <p>Merge Request</p>
       <p>11</p>
+      <p>22</p>
     </div>
   );
 }
